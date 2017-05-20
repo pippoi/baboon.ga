@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.baboon.ga/post/mount-partition-linux/</loc>
+    <lastmod>2017-05-20T00:47:32-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.baboon.ga/post/welcome-to-my-world/</loc>
     <lastmod>2017-05-09T20:55:26-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.baboon.ga/</loc>
-    <lastmod>2017-05-09T20:55:26-07:00</lastmod>
+    <lastmod>2017-05-20T00:47:32-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -19,12 +24,18 @@
   
   <url>
     <loc>http://www.baboon.ga/post/</loc>
-    <lastmod>2017-05-09T20:55:26-07:00</lastmod>
+    <lastmod>2017-05-20T00:47:32-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.baboon.ga/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.baboon.ga/categories/technology/</loc>
+    <lastmod>2017-05-20T00:47:32-07:00</lastmod>
     <priority>0</priority>
   </url>
   
